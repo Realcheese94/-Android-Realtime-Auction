@@ -17,4 +17,5 @@ Firebase 와 Jsp 를 활용하여 서버에 이미지 저장 및 경매가 회�
 매자가 가격이 마음에 들지 않다면 채팅을 하지 않는다면 다른 최고 낙찰자가 나타나면 자동으로 그사
 람과 매칭이 되는 형태로 이어집니다. 그 사람과 채팅을 통해 개인정보를 주고 받고 그 정보를 통해 거
 래를 택배로 할지 직접 할지 둘의 합의 하에 이루어 질 수 있게끔 해줍니다.
-<img src ="C:\Users\sj\Desktop\image1"/>
+
+<img src="C:\Users\sj\Desktop\image1.png" height="400" alt="Screenshot"/>
