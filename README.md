@@ -18,4 +18,20 @@ Firebase 와 Jsp 를 활용하여 서버에 이미지 저장 및 경매가 회�
 람과 매칭이 되는 형태로 이어집니다. 그 사람과 채팅을 통해 개인정보를 주고 받고 그 정보를 통해 거
 래를 택배로 할지 직접 할지 둘의 합의 하에 이루어 질 수 있게끔 해줍니다.
 
-<img src="C:\Users\sj\Desktop\image1.png" height="400" alt="image1"/>
+![image](https://user-images.githubusercontent.com/35086477/49072780-5cb08300-f274-11e8-84e8-2863041ff9b7.png)
+![image](https://user-images.githubusercontent.com/35086477/49072786-61753700-f274-11e8-8ff1-27b6fd6384c7.png)
+![image](https://user-images.githubusercontent.com/35086477/49072795-66d28180-f274-11e8-88ec-9e33fe46c72c.png)
+![image](https://user-images.githubusercontent.com/35086477/49072804-6a660880-f274-11e8-9b67-2631a9c500f8.png)
+![image](https://user-images.githubusercontent.com/35086477/49072830-7356da00-f274-11e8-9494-6e59b56173db.png)
+![image](https://user-images.githubusercontent.com/35086477/49072834-7651ca80-f274-11e8-97d5-931cc6556695.png)
+![image](https://user-images.githubusercontent.com/35086477/49072839-794cbb00-f274-11e8-960a-8fd2a4fb2abd.png)
+![image](https://user-images.githubusercontent.com/35086477/49072846-7c47ab80-f274-11e8-863c-1f68935e5212.png)
+
+
+![image](https://user-images.githubusercontent.com/35086477/49072850-7fdb3280-f274-11e8-8906-1fe3fe207870.png)
+![image](https://user-images.githubusercontent.com/35086477/49072856-84075000-f274-11e8-9b1d-ba77b83ee91d.png)
+![image](https://user-images.githubusercontent.com/35086477/49072860-879ad700-f274-11e8-97bb-967ba3a40cf6.png)
+![image](https://user-images.githubusercontent.com/35086477/49072870-8bc6f480-f274-11e8-865a-b732e77b29f1.png)
+![image](https://user-images.githubusercontent.com/35086477/49072877-8ff31200-f274-11e8-9837-c133e967d84b.png)
+![image](https://user-images.githubusercontent.com/35086477/49072882-91bcd580-f274-11e8-8475-93c26fab6f7f.png)
+
